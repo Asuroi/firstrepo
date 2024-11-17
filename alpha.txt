@@ -14,3 +14,9 @@ show the diff of what is in branchA that is not in branch
 
 5.git show [SHA]
 show any object in Git in human-readable format
+
+TRACKING PATH CHANGES
+Versioning file removes and path changes
+
+6.git rm [file]
+delete the file from project and stage the removal for commit
